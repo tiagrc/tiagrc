@@ -1,4 +1,4 @@
-# Olá! Eu sou o Tiago R Calado 👋
+# Olá! Me chamo Tiago R Calado 👋
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagorc/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/rodriguesnll)
