@@ -2,9 +2,9 @@
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagorc/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagrc&show_icons=true&theme=radical)
+Focado em aprender, produzir e evoluir, empenho total nos indicadores e alta performance para entregas respeitando o tempo determinado.
 
-Focado em aprender, produzir e evoluir, foco nos indicadores e alta performance para entregas respeitando o tempo determinado.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagrc&show_icons=true&theme=radical)
 
 ## Tecnologias do meu dia a dia
 
